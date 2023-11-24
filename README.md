@@ -1,3 +1,3 @@
 Click here to open the Website
 
-<a href="https://yalcinkurt89.github.io/Drum_Kit/"</a>
+<a href="https://yalcinkurt89.github.io/Drum_Kit/" target="_blank">click here</a>
