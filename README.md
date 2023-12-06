@@ -1,21 +1,19 @@
-<a href="https://yalcinkurt89.github.io/Drum_Kit/" target="_blank">Click here to open the Website</a>
-
 <h1 align="center">Drum Kit Webseite</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YalcinKurt89/Drum_Kit/main/images/Drum_Kit_Screenshot.jpg" alt="Drum Kit Logo" width="200" height="200">
-</p>
 
 <p align="center">Eine interaktive Website, die verschiedene Schlaginstrumente darstellt.</p>
 
 <p align="center">
-  <a href="Link zu deiner Github Pages"><strong>Zur Demo »</strong></a>
+  <a href="https://yalcinkurt89.github.io/Drum_Kit/"><strong>Zur Demo »</strong></a>
 </p>
+
+<br>
 
 ## Funktionen
 
 - Interaktive Darstellung von 7 Schlaginstrumenten.
 - Klicken auf die Bilder oder Verwendung der Tastatur, um die Instrumentenklänge abzuspielen.
+
+<br>
 
 ## Verwendung
 
@@ -26,22 +24,15 @@
    - ...
    - Taste 'K' für Instrument 7
 
+<br>
+
 ## Technologien
 
 - HTML, CSS und JavaScript wurden verwendet, um diese Webseite zu erstellen.
 
-## Lokale Installation
 
-Falls du das Projekt lokal ausführen möchtest, folge diesen Schritten:
+Dieses Projekt dient als Demonstration von grundlegenden JavaScript-Kenntnissen.
 
-1. Klone das Repository: `git clone [Link zu deinem Repository]`
-2. Öffne die `index.html` Datei in deinem Webbrowser.
-
-## Über den Autor
-
-Dieses Projekt wurde von [Dein Name] erstellt und dient als Demonstration von grundlegenden JavaScript-Kenntnissen.
-
-Falls du Fragen oder Anregungen hast, kontaktiere mich gerne unter [deine Email-Adresse].
+Falls du Fragen oder Anregungen hast, kontaktiere mich gerne unter yalcin.coding@gmail.com.
 
 Vielen Dank für deinen Besuch auf der Drum Kit Webseite!
-
