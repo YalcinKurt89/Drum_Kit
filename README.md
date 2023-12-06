@@ -3,7 +3,7 @@
 <h1 align="center">Drum Kit Webseite</h1>
 
 <p align="center">
-  <img src="hier kommt der Link zu einem Bild oder Logo deiner Wahl" alt="Drum Kit Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/YalcinKurt89/Drum_Kit/main/images/Drum_Kit_Screenshot.jpg" alt="Drum Kit Logo" width="200" height="200">
 </p>
 
 <p align="center">Eine interaktive Website, die verschiedene Schlaginstrumente darstellt.</p>
