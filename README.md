@@ -30,9 +30,10 @@
 
 - HTML, CSS und JavaScript wurden verwendet, um diese Webseite zu erstellen.
 
+<br>
 
-Dieses Projekt dient als Demonstration von grundlegenden JavaScript-Kenntnissen.
-
-Falls du Fragen oder Anregungen hast, kontaktiere mich gerne unter yalcin.coding@gmail.com.
-
-Vielen Dank für deinen Besuch auf der Drum Kit Webseite!
+> Dieses Projekt dient als Demonstration von grundlegenden JavaScript-Kenntnissen.
+> 
+> Falls du Fragen oder Anregungen hast, kontaktiere mich gerne unter yalcin.coding@gmail.com.
+> 
+> Vielen Dank für deinen Besuch auf der Drum Kit Webseite!
